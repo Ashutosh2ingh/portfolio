@@ -1,0 +1,43 @@
+@import "../../vars.css";
+
+.container{
+    margin-top: 76px;
+    color: var(--color-text);
+    margin-left: 10%;
+    position: relative; 
+}
+
+.title{
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 900px) {
+    
+    .slider{
+        margin-left: 20%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    
+    .slider{
+        margin-left: 10%;
+    }
+}
+
+@media screen and (max-width: 470px) {
+    
+    .slider{
+        margin-left: 0;
+    }
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "role": "Full Stack Developer",
+        "organisation": "Techpath Research and Development",
+        "startDate": "Jul, 2023",
+        "endDate": "Feb, 2024",
+        "experience": ["Created an app using React Native ", "Created a ecommerce website using React", "Created a software for PMT using Django."],
+        "imageSrc": "history/techpath.png"
+    },
+    {
+        "role": "Full Stack Intern",
+        "organisation": "Techpath Research and Development",
+        "startDate": "Dec, 2022",
+        "endDate": "Jun, 2023",
+        "experience": ["Created a Gym website using HTML, CSS, and JavaScript and Flask", "Worked on React"],
+        "imageSrc": "history/techpath.png"
+    }
+]

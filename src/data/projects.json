@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Gym Website",
+        "imageSrc": "projects/project.png",
+        "description": "I designed a sleek, user-friendly gym website for optimal fitness experience.",
+        "skills": ["HTML", "CSS","JavaScript", "Flask"],
+        "source": "https://github.com/Ashutosh2ingh/misslaundry-App"
+    },
+    {
+        "title": "MissLanudry App",
+        "imageSrc": "projects/project.png",
+        "description": "This app is created to manage laundry services online.",
+        "skills": ["React Native", "FastAPI"],
+        "source": "https://github.com/Ashutosh2ingh/misslaundry-App"
+    },
+    {
+        "title": "Ecommerce",
+        "imageSrc": "projects/project.png",
+        "description": "This project manages the full backend functionality of Ecommerce.",
+        "skills": ["ReactJS", "Python", "Django"],
+        "source": "https://github.com/Ashutosh2ingh/Ecommerce-Backend"
+    },
+    {
+        "title": "PMT",
+        "imageSrc": "projects/project.png",
+        "description": "This project is created to manage the employee and students.",
+        "skills": ["HTML", "Bootstrap", "Django"],
+        "source": "https://github.com/Ashutosh2ingh/pmt"
+    },
+    {
+        "title": "Weather App",
+        "imageSrc": "projects/project.png",
+        "description": "This project will find the temperature of the respective places.",
+        "skills": ["ReactJS", "openWeathermap"],
+        "source": "https://github.com/Ashutosh2ingh/Weather-app"
+    }
+]
